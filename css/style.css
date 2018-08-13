@@ -14,11 +14,11 @@
       font-weight: 300; }
 
 .hero_container {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))), url("/img/techcompany.jpg");
-  background: -webkit-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("/img/techcompany.jpg");
-  background: -o-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("/img/techcompany.jpg");
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.3)), to(rgba(12, 12, 12, 0.34))), url("/img/techcompany.jpg");
-  background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("/img/techcompany.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))), url("../img/techcompany.jpg");
+  background: -webkit-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("../img/techcompany.jpg");
+  background: -o-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("../img/techcompany.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.3)), to(rgba(12, 12, 12, 0.34))), url("../img/techcompany.jpg");
+  background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("../img/techcompany.jpg");
   background-size: cover;
   background-position: bottom center;
   height: 850px;
@@ -112,11 +112,11 @@
   position: relative;
   overflow: hidden; }
   .what_we_have_done .done {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))), url("./img/field.jpg");
-    background: -webkit-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("./img/field.jpg");
-    background: -o-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("./img/field.jpg");
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.3)), to(rgba(12, 12, 12, 0.34))), url("./img/field.jpg");
-    background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("./img/field.jpg");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))), url("../img/field.jpg");
+    background: -webkit-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("../img/field.jpg");
+    background: -o-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("../img/field.jpg");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.3)), to(rgba(12, 12, 12, 0.34))), url("../img/field.jpg");
+    background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("../img/field.jpg");
     background-size: cover;
     position: absolute;
     width: 100%;
@@ -177,10 +177,10 @@
     font-weight: 100; }
 
 .contact {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(103, 9, 15, 0.75)), to(rgba(20, 7, 8, 0.75))), url("./img/almondbloom.jpg");
-  background: -webkit-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("./img/almondbloom.jpg");
-  background: -o-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("./img/almondbloom.jpg");
-  background: linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("./img/almondbloom.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(103, 9, 15, 0.75)), to(rgba(20, 7, 8, 0.75))), url("../img/almondbloom.jpg");
+  background: -webkit-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("../img/almondbloom.jpg");
+  background: -o-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("../img/almondbloom.jpg");
+  background: linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("../img/almondbloom.jpg");
   background-size: cover;
   background-position: center center;
   height: 720px; }
