@@ -9,6 +9,7 @@
       padding-left: 40px; }
     .red_strip .container_strip .phone_number {
       float: right;
+      font-size: 1rem;
       color: #fff;
       font-family: 'Lato';
       font-weight: 300; }
@@ -31,7 +32,7 @@
       font-family: 'Lato';
       font-weight: 700;
       color: #fff;
-      font-size: 70px;
+      font-size: 4rem;
       margin: 0; }
       .hero_container .hero_sub_container .hero_header::after {
         content: "";
@@ -42,13 +43,13 @@
       font-family: 'Lato';
       font-weight: 300;
       color: #fff;
-      font-size: 25px;
+      font-size: 1.5rem;
       padding-top: 20px; }
     .hero_container .hero_sub_container .hero_button {
       display: inline-block;
       background-color: #AA212A;
       color: #fff;
-      font-size: 17px;
+      font-size: 1rem;
       font-family: "Lato";
       font-weight: 200;
       padding: 5px 10px; }
@@ -89,7 +90,7 @@
       transform: translateY(-50%); }
     .publication_magazine_box .publication_magazine_box_caption .publication_magazine_box_info {
       padding: 40px;
-      font-size: 18px;
+      font-size: 1rem;
       font-family: 'Lato';
       font-weight: 300; }
       .publication_magazine_box .publication_magazine_box_caption .publication_magazine_box_info a {
@@ -100,7 +101,7 @@
   padding: 120px 0px; }
   .about_jcs .about_jcs_paragraph {
     margin-top: 140px;
-    font-size: 17px;
+    font-size: 1.12rem;
     font-family: 'Lato';
     font-weight: 500; }
 
@@ -136,17 +137,17 @@
     .what_we_have_done .content-wrapper .we_number {
       font-family: 'Lato';
       font-weight: 100;
-      font-size: 30px;
+      font-size: 1.7rem;
       margin: 0; }
     .what_we_have_done .content-wrapper .we_do {
       font-family: 'Lato';
       font-weight: 700;
-      font-size: 30px;
+      font-size: 1.7rem;
       margin: 0; }
     .what_we_have_done .content-wrapper .we_done {
       font-weight: 100;
       font-family: 'Lato';
-      font-size: 20px;
+      font-size: 1.3rem;
       margin: 0; }
 
 .services {
@@ -155,7 +156,7 @@
   .services h1 {
     font-family: 'Lato';
     font-weight: 700;
-    font-size: 60px;
+    font-size: 4rem;
     margin: 0;
     color: #604F50; }
     .services h1::after {
@@ -167,12 +168,12 @@
   .services .padding {
     padding-top: 90px; }
   .services .card .card-body h2 {
-    font-size: 20px;
+    font-size: 1.5rem;
     color: #AA212A;
     font-family: 'Lato';
     font-weight: 400; }
   .services .card .card-body p {
-    font-size: 16px;
+    font-size: 1rem;
     font-family: 'Lato';
     font-weight: 100; }
 
@@ -188,13 +189,13 @@
     padding: 56px 153px; }
     .contact .contact_info .footer_info {
       color: #fff;
-      font-size: 18px;
+      font-size: 1.1rem;
       font-family: 'Lato';
       font-weight: 100; }
     .contact .contact_info h2 {
       padding-top: 30px;
       color: #fff;
-      font-size: 35px;
+      font-size: 2rem;
       font-family: 'Lato';
       font-weight: 400; }
       .contact .contact_info h2::after {
@@ -205,7 +206,7 @@
         border-bottom: 2px solid #797575; }
     .contact .contact_info .phone {
       color: #fff;
-      font-size: 18px;
+      font-size: 1rem;
       font-family: 'Lato';
       font-weight: 100; }
       .contact .contact_info .phone::after {
@@ -216,7 +217,7 @@
         border-bottom: 2px solid #797575; }
     .contact .contact_info .address {
       color: #fff;
-      font-size: 18px;
+      font-size: 1rem;
       font-family: 'Lato';
       font-weight: 100; }
       .contact .contact_info .address::after {
@@ -227,7 +228,7 @@
         border-bottom: 2px solid #797575; }
     .contact .contact_info .email {
       color: #fff;
-      font-size: 18px;
+      font-size: 1rem;
       font-family: 'Lato';
       font-weight: 100; }
       .contact .contact_info .email::after {
@@ -244,7 +245,7 @@
     .contact .white_box h1 {
       font-family: 'Lato';
       font-weight: 700;
-      font-size: 40px;
+      font-size: 2.4rem;
       color: #604F50; }
       .contact .white_box h1::after {
         content: "";
@@ -254,7 +255,7 @@
     .contact .white_box p {
       font-family: 'Lato';
       font-weight: 100;
-      font-size: 18px;
+      font-size: 1rem;
       padding: 20px 0px; }
     .contact .white_box a {
       padding: 5px 20px;
@@ -268,7 +269,7 @@
   height: 70px;
   background-color: #622D30; }
   .social_media nav ul li a i {
-    font-size: 28px;
+    font-size: 2rem;
     color: #411a1d;
     padding-top: 15px; }
     .social_media nav ul li a i:hover {
@@ -279,7 +280,7 @@
   background-color: #41191C;
   color: #fff;
   font-family: 'Lato';
-  font-size: 20px;
+  font-size: 1.5rem;
   font-weight: 100;
   margin: 0 auto;
   padding-top: 20px; }
