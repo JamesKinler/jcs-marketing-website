@@ -112,11 +112,11 @@
   position: relative;
   overflow: hidden; }
   .what_we_have_done .done {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))), url("/img/field.jpg");
-    background: -webkit-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("/img/field.jpg");
-    background: -o-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("/img/field.jpg");
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.3)), to(rgba(12, 12, 12, 0.34))), url("/img/field.jpg");
-    background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("/img/field.jpg");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))), url("./img/field.jpg");
+    background: -webkit-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("./img/field.jpg");
+    background: -o-linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("./img/field.jpg");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.3)), to(rgba(12, 12, 12, 0.34))), url("./img/field.jpg");
+    background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(12, 12, 12, 0.34)), url("./img/field.jpg");
     background-size: cover;
     position: absolute;
     width: 100%;
@@ -177,21 +177,20 @@
     font-weight: 100; }
 
 .contact {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(103, 9, 15, 0.75)), to(rgba(20, 7, 8, 0.75))), url("/img/almondbloom.jpg");
-  background: -webkit-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("/img/almondbloom.jpg");
-  background: -o-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("/img/almondbloom.jpg");
-  background: linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("/img/almondbloom.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(103, 9, 15, 0.75)), to(rgba(20, 7, 8, 0.75))), url("./img/almondbloom.jpg");
+  background: -webkit-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("./img/almondbloom.jpg");
+  background: -o-linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("./img/almondbloom.jpg");
+  background: linear-gradient(rgba(103, 9, 15, 0.75), rgba(20, 7, 8, 0.75)), url("./img/almondbloom.jpg");
   background-size: cover;
   background-position: center center;
   height: 720px; }
   .contact .contact_info {
-    padding: 110px 40px; }
+    padding: 56px 153px; }
     .contact .contact_info .footer_info {
       color: #fff;
       font-size: 18px;
       font-family: 'Lato';
-      font-weight: 100;
-      margin-right: 50px; }
+      font-weight: 100; }
     .contact .contact_info h2 {
       padding-top: 30px;
       color: #fff;
@@ -202,7 +201,7 @@
         padding-bottom: 20px;
         content: "";
         display: block;
-        width: 120%;
+        width: 164%;
         border-bottom: 2px solid #797575; }
     .contact .contact_info .phone {
       color: #fff;
@@ -212,7 +211,7 @@
       .contact .contact_info .phone::after {
         content: "";
         display: block;
-        width: 120%;
+        width: 164%;
         padding-bottom: 20px;
         border-bottom: 2px solid #797575; }
     .contact .contact_info .address {
@@ -223,7 +222,7 @@
       .contact .contact_info .address::after {
         content: "";
         display: block;
-        width: 120%;
+        width: 164%;
         padding-bottom: 20px;
         border-bottom: 2px solid #797575; }
     .contact .contact_info .email {
@@ -234,7 +233,7 @@
       .contact .contact_info .email::after {
         content: "";
         display: block;
-        width: 120%;
+        width: 164%;
         padding-bottom: 20px;
         border-bottom: 2px solid #797575; }
   .contact .white_box {
