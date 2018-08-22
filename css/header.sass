@@ -13,41 +13,91 @@
       color: #fff
       font-family: 'Lato'
       font-weight: 300
-.hero_container
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))),url('../img/techcompany.jpg')
-  background: -webkit-linear-gradient(rgba(8, 8, 8, 0.30), rgba(12, 12, 12, 0.34)),url('../img/techcompany.jpg')
-  background: -o-linear-gradient(rgba(8, 8, 8, 0.30), rgba(12, 12, 12, 0.34)),url('../img/techcompany.jpg')
-  background: linear-gradient(rgba(8, 8, 8, 0.30), rgba(12, 12, 12, 0.34)),url('../img/techcompany.jpg')
-  background-size: cover
-  background-position: bottom center
+.video_hero_container
+  background: linear-gradient(rgba(93, 63, 63, 0.45), rgba(33, 34, 35, 0.04))
+  padding: 0
+  position: relative
   height: 850px
   width: 100%
-  .hero_sub_container
+  .video_wrapper
     position: absolute
-    top: 40%
-    left: 90px
-    .hero_header
-      font-family: 'Lato'
-      font-weight: 700
-      color: #fff
-      font-size: 4rem
-      margin: 0
-      &::after
-        content: ""
-        display: block
-        width: 12%
-        border-bottom: 4px solid #AA212A
-    .hero_sub_header
-      font-family: 'Lato'
-      font-weight: 300
-      color: #fff
-      font-size: 1.5rem
-      padding-top: 20px
-    .hero_button
-      display: inline-block
-      background-color: #AA212A
-      color: #fff
-      font-size: 1rem
-      font-family: "Lato"
-      font-weight: 200
-      padding: 5px 10px
+    height: 100%
+    width: 100%
+    overflow: hidden
+    video
+      position: absolute
+      z-index: -9999
+      min-height: 100%
+      min-width: 100%
+    .hero_sub_container
+      position: absolute
+      top: 40%
+      left: 30%
+      .hero_header
+       font-family: 'Lato'
+       font-weight: 700
+       color: #fff
+       font-size: 4rem
+       margin: 0
+       &::after
+         content: ""
+         display: block
+         width: 10%
+         border-bottom: 4px solid #AA212A
+      .hero_sub_header
+         font-family: 'Lato'
+         font-weight: 300
+         color: #fff
+         font-size: 1.5rem
+         padding-top: 5px
+         text-align: center
+      .hero_button
+         display: inline-block
+         background-color: #AA212A
+         color: #fff
+         font-size: 1rem
+         font-family: "Lato"
+         font-weight: 200
+         padding: 5px 10px
+         margin-left: 45%
+
+
+
+// .hero_container
+//   background: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 8, 8, 0.12)), to(rgba(12, 12, 12, 0.34))),url('../img/techcompany.jpg')
+//   background: -webkit-linear-gradient(rgba(8, 8, 8, 0.30), rgba(12, 12, 12, 0.34)),url('../img/techcompany.jpg')
+//   background: -o-linear-gradient(rgba(8, 8, 8, 0.30), rgba(12, 12, 12, 0.34)),url('../img/techcompany.jpg')
+//   background: linear-gradient(rgba(8, 8, 8, 0.30), rgba(12, 12, 12, 0.34)),url('../img/techcompany.jpg')
+//   background-size: cover
+//   background-position: bottom center
+//   height: 850px
+//   width: 100%
+//   .hero_sub_container
+//   position: absolute
+//   top: 40%
+//   left: 90px
+//   .hero_header
+//    font-family: 'Lato'
+//    font-weight: 700
+//    color: #fff
+//    font-size: 4rem
+//    margin: 0
+//    &::after
+//      content: ""
+//      display: block
+//      width: 12%
+//      border-bottom: 4px solid #AA212A
+//   .hero_sub_header
+//    font-family: 'Lato'
+//    font-weight: 300
+//    color: #fff
+//    font-size: 1.5rem
+//    padding-top: 20px
+//   .hero_button
+//    display: inline-block
+//    background-color: #AA212A
+//    color: #fff
+//    font-size: 1rem
+//    font-family: "Lato"
+//    font-weight: 200
+//    padding: 5px 10px
