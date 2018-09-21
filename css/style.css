@@ -309,7 +309,7 @@
   .services .padding {
     padding-top: 90px; }
   .services .card .card-body h2 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: #AA212A;
     font-family: 'Lato';
     font-weight: 400; }
@@ -487,6 +487,66 @@
   .our_services .our_services_trade_show p {
     font-size: 15px;
     font-weight: 300; }
+
+.our_publications .our_publications_no-gutter {
+  padding: 0 !important;
+  margin: 0 !important; }
+
+.our_publications .wcngg {
+  background-color: #AA212A;
+  padding: 80px 55px 0px 55px;
+  color: #fff;
+  font-family: 'lato'; }
+  .our_publications .wcngg h1 {
+    font-weight: 700;
+    font-size: 60px; }
+  .our_publications .wcngg .our_publications_sub_header {
+    font-weight: 500;
+    font-size: 20px; }
+  .our_publications .wcngg p {
+    font-size: 15px;
+    font-weight: 300; }
+  .our_publications .wcngg .magazine_link {
+    color: #fff; }
+    .our_publications .wcngg .magazine_link:hover {
+      text-decoration: none; }
+
+.our_publications .pcc {
+  padding: 80px 55px 0px 55px;
+  font-family: 'lato';
+  color: #58585a; }
+  .our_publications .pcc h1 {
+    font-weight: 700;
+    font-size: 60px; }
+  .our_publications .pcc .our_publications_sub_header {
+    font-weight: 500;
+    font-size: 20px; }
+  .our_publications .pcc p {
+    font-size: 15px;
+    font-weight: 300; }
+  .our_publications .pcc .magazine_link {
+    color: #58585a; }
+    .our_publications .pcc .magazine_link:hover {
+      text-decoration: none; }
+
+.our_publications .organicfarmer {
+  background-color: #AA212A;
+  padding: 80px 55px 0 55px;
+  color: #fff;
+  font-family: 'lato'; }
+  .our_publications .organicfarmer h1 {
+    font-weight: 700;
+    font-size: 60px; }
+  .our_publications .organicfarmer .our_publications_sub_header {
+    font-weight: 500;
+    font-size: 20px; }
+  .our_publications .organicfarmer p {
+    font-size: 15px;
+    font-weight: 300; }
+  .our_publications .organicfarmer .magazine_link {
+    color: #fff; }
+    .our_publications .organicfarmer .magazine_link:hover {
+      text-decoration: none; }
 
 @media only screen and (max-width: 1744px) {
   .video_hero_container .video_wrapper .hero_sub_container {
